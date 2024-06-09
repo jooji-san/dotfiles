@@ -1,4 +1,4 @@
-nu
-starship
-zoxide
-catpuccin
+- nu
+- starship
+- zoxide
+- cattpuccin
