@@ -1,0 +1,4 @@
+nu
+starship
+zoxide
+catpuccin
